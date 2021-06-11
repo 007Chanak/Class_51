@@ -1,0 +1,33 @@
+h1 
+{
+    color: white;
+}
+
+.header
+{
+    background-color:#808080; 
+
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid
+{
+    background-color:#660000;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+.footer
+{
+    background-color:#001A00;
+    display:flex;
+    justify-content:flex-end;
+}
+
+p,h2
+{
+    color: #0000B0;
+    text-align:center;
+}
